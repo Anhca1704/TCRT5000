@@ -7,7 +7,7 @@
 
 
 const int pinIRd = 8;
-const int pinIRa = A0;
+const int pinIRa = 0;
 const int pinLED = 13;
 int IRvalueA = 0;
 int IRvalueD = 0;
